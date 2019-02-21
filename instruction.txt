@@ -1,0 +1,18 @@
+use npm init in console
+put your name in author
+
+build CRUD using mongoose
+
+key attributes
+firstName
+lastName
+phone
+password
+
+this should be save in collection of Users in mongoose
+
+create public repository in GIT
+study GIT command like git push, git commit -m"messege of commit"
+so that you can upload this project in repo
+
+
